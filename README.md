@@ -31,6 +31,12 @@ npm run start
 npm run test
 ```
 
+## Deploed with Netilfy
+
+```sh
+https://cocktails-react-app-pb.netlify.app/
+```
+
 ## Author
 
 **Patryk Basiak**
